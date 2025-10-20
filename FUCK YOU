@@ -1,0 +1,12 @@
+
+window.firebaseConfig = {
+  apiKey: "AIzaSyAd5KNh5H6KaQ9nv8FP3keyFRh28zSwfLM",
+  authDomain: "gama-xiter.firebaseapp.com",
+  databaseURL: "https://gama-xiter-default-rtdb.firebaseio.com",
+  projectId: "gama-xiter",
+  storageBucket: "gama-xiter.firebasestorage.app",
+  messagingSenderId: "979348178199",
+  appId: "1:979348178199:web:dd66b3d0d00b76fe61a352",
+  measurementId: "G-4Q4P3GTJN5"
+};
+
